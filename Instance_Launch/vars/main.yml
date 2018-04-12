@@ -1,0 +1,9 @@
+---
+# vars file for ubunutu
+keypair: ansible-tower-key
+instance_type: t2.micro
+security_group: Red Hat Enterprise Linux -RHEL- 7-2 -HVM--7-2_HVM_GA-AutogenByAWSMP-
+image: ami-8b1886f3
+region: us-west-2
+subnet: subnet-a17de3f9
+privateip: 172.31.12.50
